@@ -1,1 +1,3 @@
-new file3 created in local repo..
+file3 created in local repo..
+file3 on remote repo
+
